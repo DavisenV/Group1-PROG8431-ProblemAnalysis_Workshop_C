@@ -1,0 +1,4 @@
+type,quality_label,quality_rank,tool_wear_added_min,osf_threshold_minNm,source
+L,Low,1,2,11000,"AI4I 2020 dataset description (UCI ML Repository, dataset 601) and Matzka (2020), Explainable AI for Predictive Maintenance Applications"
+M,Medium,2,3,12000,"AI4I 2020 dataset description (UCI ML Repository, dataset 601) and Matzka (2020), Explainable AI for Predictive Maintenance Applications"
+H,High,3,5,13000,"AI4I 2020 dataset description (UCI ML Repository, dataset 601) and Matzka (2020), Explainable AI for Predictive Maintenance Applications"
